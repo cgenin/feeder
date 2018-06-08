@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Verticle: net.christophe.genin.vertx.feeder.MainVerticle
+Main-Class: net.christophe.genin.vertx.feeder.Main
+
